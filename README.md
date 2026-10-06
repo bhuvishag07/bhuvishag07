@@ -282,6 +282,8 @@ A mini project built to practice structuring and styling web pages.
 
 </div>
 
+
+
 <div align="center">
 
 > *"Building today, learning continuously, and improving one project at a time."*
