@@ -1,306 +1,270 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=4C1D95&text=Bhuvisha%20Gohil&fontColor=FFFFFF&fontSize=60&fontAlignY=42&animation=fadeIn" alt="Bhuvisha Gohil" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=FFD3E0&text=Bhuvisha%20Gohil&fontColor=2B3A55&fontSize=58&fontAlignY=40&desc=B.Tech%20CSE%20-%20Full-Stack%20-%20Python%20-%20AI%20and%20Data&descAlignY=62&descSize=20&descColor=44587A" alt="Bhuvisha Gohil" width="100%" />
 
 <a href="https://github.com/bhuvishag07">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Bhuvisha+Gohil;B.Tech+CSE+Student;AI+%26+Data+Science+Enthusiast;Software+Developer;Frontend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=1000&color=FF8FAB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bhuvisha+Gohil;B.Tech+Computer+Science+Student;Full-Stack+%26+Frontend+Developer;Python+%7C+AI+%7C+Data+Science" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE-4C1D95?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![ITM Skills University](https://img.shields.io/badge/ITM_Skills-University-312E81?style=for-the-badge)
-![Location](https://img.shields.io/badge/Mumbai-India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white)
+<img src="https://img.shields.io/badge/B.Tech_CSE-FFC8DD?style=for-the-badge" alt="B.Tech CSE" />
+<img src="https://img.shields.io/badge/ITM_Skills_University_%7C_Class_of_2029-A8D8FF?style=for-the-badge" alt="ITM Skills University | Class of 2029" />
+<img src="https://img.shields.io/badge/Open_to_Internships-B8F0D4?style=for-the-badge" alt="Open to Internships" />
+
+<br/><br/>
+
+<a href="https://new-portfolio-zeta-vert.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FFD3B6?style=for-the-badge&logo=vercel&logoColor=2B3A55" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/bhuvisha-gohil-a81864386"><img src="https://img.shields.io/badge/LinkedIn-A8D8FF?style=for-the-badge&logo=linkedin&logoColor=2B3A55" alt="LinkedIn" /></a>
+<a href="mailto:bhuvishagohil07@gmail.com"><img src="https://img.shields.io/badge/Email-FFC8DD?style=for-the-badge&logo=gmail&logoColor=2B3A55" alt="Email" /></a>
 
 </div>
 
 ---
 
-## About Me
+## 🌸 About Me
 
-I'm a **second-year B.Tech Computer Science & Engineering student at ITM Skills University**, building a foundation in software development while exploring **Artificial Intelligence and Data Science**.
+I'm a **second-year B.Tech Computer Science and Engineering student at ITM Skills University** (graduating 2029). I build practical applications across the stack: React interfaces, Node.js and FastAPI backends, and data-driven tools in Python.
 
-- Building software projects in C++, JavaScript, React and Node.js
-- Learning frontend and full-stack development
-- Developing skills in AI and data science
-- Interested in solving practical problems through technology
-- Learning through coursework, projects, hackathons, an internship and technical simulations
-
-<details>
-<summary><b>Open To</b></summary>
-<br/>
-
-| Opportunity | Status |
-| :--- | :---: |
-| Software Development Internships | Open |
-| Frontend Development Internships | Open |
-| AI / Data Science Internships | Open |
-| Student Technical Collaborations | Open |
-| Hackathons | Open |
-| Project Collaborations | Open |
-
-</details>
+- 🔭 Completed the **BSERC Def-Space Summer Internship 2026**, where I built the Sentinel threat analysis dashboard
+- 🌐 Built and deployed full-stack projects like **WellnessAtWork** and **CampusCore**
+- 🧮 Solid base in **Data Structures and Algorithms** through C++ projects such as SmartRide
+- 📊 Exploring **AI and data science** with Python, Pandas, NumPy, Matplotlib and Scikit-learn
+- 🎯 Looking for **software development, full-stack, frontend, Python and AI/data internships**
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-**Languages**
+**Languages**<br/>
+<img src="https://img.shields.io/badge/Python-A8D8FF?style=for-the-badge&logo=python&logoColor=2B3A55" alt="Python" />
+<img src="https://img.shields.io/badge/C-A8D8FF?style=for-the-badge" alt="C" />
+<img src="https://img.shields.io/badge/C%2B%2B-A8D8FF?style=for-the-badge&logo=cplusplus&logoColor=2B3A55" alt="C++" />
+<img src="https://img.shields.io/badge/Java-A8D8FF?style=for-the-badge&logo=openjdk&logoColor=2B3A55" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-A8D8FF?style=for-the-badge&logo=javascript&logoColor=2B3A55" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SQL-A8D8FF?style=for-the-badge&logo=postgresql&logoColor=2B3A55" alt="SQL" />
 
-<img src="https://skillicons.dev/icons?i=py,cpp,java,js,html,css&theme=dark" alt="Languages" />
-<br/>
-<img src="https://img.shields.io/badge/SQL-4C1D95?style=flat-square&logo=databricks&logoColor=white" alt="SQL" />
+**Frontend**<br/>
+<img src="https://img.shields.io/badge/HTML5-FFC8DD?style=for-the-badge&logo=html5&logoColor=2B3A55" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-FFC8DD?style=for-the-badge&logo=css3&logoColor=2B3A55" alt="CSS3" />
+<img src="https://img.shields.io/badge/React.js-FFC8DD?style=for-the-badge&logo=react&logoColor=2B3A55" alt="React.js" />
+<img src="https://img.shields.io/badge/Vite-FFC8DD?style=for-the-badge&logo=vite&logoColor=2B3A55" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-FFC8DD?style=for-the-badge&logo=tailwindcss&logoColor=2B3A55" alt="Tailwind CSS" />
 
-<br/>
+**Backend and APIs**<br/>
+<img src="https://img.shields.io/badge/Node.js-B8F0D4?style=for-the-badge&logo=nodedotjs&logoColor=2B3A55" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-B8F0D4?style=for-the-badge&logo=express&logoColor=2B3A55" alt="Express.js" />
+<img src="https://img.shields.io/badge/FastAPI-B8F0D4?style=for-the-badge&logo=fastapi&logoColor=2B3A55" alt="FastAPI" />
+<img src="https://img.shields.io/badge/REST_APIs-B8F0D4?style=for-the-badge" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Socket.IO-B8F0D4?style=for-the-badge&logo=socketdotio&logoColor=2B3A55" alt="Socket.IO" />
 
-**Frontend**
+**Databases and Authentication**<br/>
+<img src="https://img.shields.io/badge/MongoDB-FFD3B6?style=for-the-badge&logo=mongodb&logoColor=2B3A55" alt="MongoDB" />
+<img src="https://img.shields.io/badge/PostgreSQL-FFD3B6?style=for-the-badge&logo=postgresql&logoColor=2B3A55" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Firebase-FFD3B6?style=for-the-badge&logo=firebase&logoColor=2B3A55" alt="Firebase" />
+<img src="https://img.shields.io/badge/JWT-FFD3B6?style=for-the-badge&logo=jsonwebtokens&logoColor=2B3A55" alt="JWT" />
 
-<img src="https://skillicons.dev/icons?i=react,html,css,js&theme=dark" alt="Frontend" />
+**Computer Science and Data**<br/>
+<img src="https://img.shields.io/badge/Pandas-FFF1A8?style=for-the-badge&logo=pandas&logoColor=2B3A55" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-FFF1A8?style=for-the-badge&logo=numpy&logoColor=2B3A55" alt="NumPy" />
+<img src="https://img.shields.io/badge/Matplotlib-FFF1A8?style=for-the-badge" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Scikit--learn-FFF1A8?style=for-the-badge&logo=scikitlearn&logoColor=2B3A55" alt="Scikit-learn" />
+<img src="https://img.shields.io/badge/DSA-FFF1A8?style=for-the-badge" alt="DSA" />
+<img src="https://img.shields.io/badge/OOP-FFF1A8?style=for-the-badge" alt="OOP" />
 
-<br/>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgres&theme=dark" alt="Backend and databases" />
-
-<br/>
-
-**Data / AI**
-
-<img src="https://skillicons.dev/icons?i=py,pandas&theme=dark" alt="Data and AI" />
-
-<br/>
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=github,vscode,figma&theme=dark" alt="Tools" />
-<br/>
-<img src="https://img.shields.io/badge/Canva-312E81?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
+**Tools**<br/>
+<img src="https://img.shields.io/badge/Git-D9CCFF?style=for-the-badge&logo=git&logoColor=2B3A55" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-D9CCFF?style=for-the-badge&logo=github&logoColor=2B3A55" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-D9CCFF?style=for-the-badge" alt="VS Code" />
+<img src="https://img.shields.io/badge/Figma-D9CCFF?style=for-the-badge&logo=figma&logoColor=2B3A55" alt="Figma" />
+<img src="https://img.shields.io/badge/Canva-D9CCFF?style=for-the-badge" alt="Canva" />
 
 </div>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-<details open>
-<summary><b>Sentinel</b></summary>
-<br/>
+### 🔭 Sentinel: AI-Powered Intelligence and Threat Analysis Dashboard
 
-AI-powered intelligence and threat analysis dashboard developed during my BSERC Space Internship (ISRO-associated). The project provides a dashboard interface for exploring and analyzing threat data from a public terrorism dataset.
+<p>
+<img src="https://img.shields.io/badge/Python-A8D8FF?style=flat-square&logo=python&logoColor=2B3A55" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-A8D8FF?style=flat-square&logo=fastapi&logoColor=2B3A55" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Global_Terrorism_Database-A8D8FF?style=flat-square" alt="Global Terrorism Database" />
+</p>
 
-**Tech Stack:** Python, FastAPI
+Built during the BSERC Def-Space Summer Internship 2026. The FastAPI backend powers modules for a global threat map, country intelligence, incident exploration, attack prediction, threat forecasting and an intelligence overview. The dataset covers **181,691 incidents, 411,868 fatalities, 523,869 injuries and 205 countries**.
 
-**Repository:** [View on GitHub ↗](https://github.com/bhuvishag07?tab=repositories&q=sentinel)
-
-</details>
-
-<details>
-<summary><b>Tic Tac Toe Final Project</b></summary>
-<br/>
-
-A classic Tic Tac Toe game built as a final project to practice game logic and program flow.
-
-**Tech Stack:** See repository
-
-**Repository:** [View on GitHub ↗](https://github.com/bhuvishag07?tab=repositories&q=tic)
-
-</details>
-
-<details>
-<summary><b>Car Parking Management System</b></summary>
-<br/>
-
-A C++ console application that manages parking slots, records vehicle information and maintains parking records. It calculates parking fees automatically.
-
-**Tech Stack:** C++
-
-**Repository:** [View on GitHub ↗](https://github.com/bhuvishag07/CAR-PARKING-MANAGEMENT-SYSTEM-C-)
-
-</details>
-
-<details>
-<summary><b>Milestone Hub</b></summary>
-<br/>
-
-Milestone Hub is a productivity and goal-tracking platform. It helps users manage goals, milestones, tasks, timelines and progress from one dashboard.
-
-**Tech Stack:** JavaScript, React
-
-**Repository:** [View on GitHub ↗](https://github.com/bhuvishag07/FINAL-REACT-PROJECT-)
-
-</details>
-
-<details>
-<summary><b>SmartRide — DSA Final Project</b></summary>
-<br/>
-
-A smart carpool simulation system that groups riders, assigns vehicles and finds optimal routes. It applies data structures and algorithms to a practical problem.
-
-**Tech Stack:** C++, Data Structures & Algorithms
-
-**Repository:** [View on GitHub ↗](https://github.com/bhuvishag07/DSA-FINAL-PROJECT-)
-
-</details>
-
-<details>
-<summary><b>Portfolio</b></summary>
-<br/>
-
-A modern, responsive portfolio website that showcases my projects, skills and contact information with a clean interface.
-
-**Tech Stack:** React, Vite, JavaScript
-
-**Repository:** [View on GitHub ↗](https://github.com/bhuvishag07/MY-PORTFOLIO)
-
-</details>
-
-<details>
-<summary><b>HTML CSS Final Mini Project</b></summary>
-<br/>
-
-A mini project built to practice structuring and styling web pages.
-
-**Tech Stack:** HTML, CSS
-
-**Repository:** [View on GitHub ↗](https://github.com/bhuvishag07/html-css-final-mini-project)
-
-</details>
+<p>
+<a href="https://github.com/bhuvishag07/SENTINEL-"><img src="https://img.shields.io/badge/View_Code-DDE3EE?style=for-the-badge&logo=github&logoColor=2B3A55" alt="View Code" /></a>
+</p>
 
 ---
 
-## Experience & Technical Activities
+### 🌿 WellnessAtWork: Corporate Employee Wellness Platform
 
-<details open>
-<summary><b>BSERC Space Internship (associated with ISRO)</b></summary>
-<br/>
+<p>
+<img src="https://img.shields.io/badge/React-B8F0D4?style=flat-square&logo=react&logoColor=2B3A55" alt="React" />
+<img src="https://img.shields.io/badge/Vite-B8F0D4?style=flat-square&logo=vite&logoColor=2B3A55" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-B8F0D4?style=flat-square&logo=tailwindcss&logoColor=2B3A55" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Node.js-B8F0D4?style=flat-square&logo=nodedotjs&logoColor=2B3A55" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-B8F0D4?style=flat-square&logo=express&logoColor=2B3A55" alt="Express.js" />
+<img src="https://img.shields.io/badge/MongoDB-B8F0D4?style=flat-square&logo=mongodb&logoColor=2B3A55" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Socket.IO-B8F0D4?style=flat-square&logo=socketdotio&logoColor=2B3A55" alt="Socket.IO" />
+<img src="https://img.shields.io/badge/JWT-B8F0D4?style=flat-square&logo=jsonwebtokens&logoColor=2B3A55" alt="JWT" />
+<img src="https://img.shields.io/badge/Firebase-B8F0D4?style=flat-square&logo=firebase&logoColor=2B3A55" alt="Firebase" />
+</p>
 
-**Intern** · BSERC Space Internship, associated with ISRO
+A deployed full-stack platform with an employee wellness dashboard, wellness challenges and activity logging, points, leaderboards and rewards, mental wellness resources and meditation, wellness session bookings, and administrative monitoring and reporting. The backend integration provides real-time updates.
 
-- Built **Sentinel**, an AI-powered intelligence and threat analysis dashboard, as my internship project
-
-</details>
-
-<details>
-<summary><b>Academic Software Projects</b></summary>
-<br/>
-
-**Student Developer** · ITM Skills University · Ongoing
-
-- Building projects in C++, JavaScript, React, Node.js and Python as part of B.Tech CSE coursework
-- Applying data structures and frontend development in hands-on assignments
-
-</details>
-
-<details>
-<summary><b>SummerHacks 2026</b></summary>
-<br/>
-
-**Participant** · ITM Skills University / Notion · 2026
-
-- Participated in a hackathon through ITM Skills University in collaboration with Notion
-
-</details>
-
-<details>
-<summary><b>Deloitte Technology Job Simulation</b></summary>
-<br/>
-
-**Virtual Job Simulation Participant** · Deloitte · September 2026
-
-- Completed a self-paced virtual job simulation (a simulation only, not employment or an internship)
-
-</details>
+<p>
+<a href="https://wellness-at-work-eight.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-B8F0D4?style=for-the-badge&logo=vercel&logoColor=2B3A55" alt="Live Demo" /></a>
+<a href="https://github.com/bhuvishag07/WellnessAtWork"><img src="https://img.shields.io/badge/View_Code-DDE3EE?style=for-the-badge&logo=github&logoColor=2B3A55" alt="View Code" /></a>
+</p>
 
 ---
 
-## Achievements
+### 🎓 CampusCore: Integrated College Department Management System
 
-<div align="center">
+<p>
+<img src="https://img.shields.io/badge/React-FFC8DD?style=flat-square&logo=react&logoColor=2B3A55" alt="React" />
+<img src="https://img.shields.io/badge/JavaScript-FFC8DD?style=flat-square&logo=javascript&logoColor=2B3A55" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Vite-FFC8DD?style=flat-square&logo=vite&logoColor=2B3A55" alt="Vite" />
+</p>
 
-| Recognition | Details |
+Covers department management and hierarchy, faculty management and workload allocation, department meetings, courses and academic information, syllabus and study materials, and academic resource management.
+
+<p>
+<a href="https://campus-core-six.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-B8F0D4?style=for-the-badge&logo=vercel&logoColor=2B3A55" alt="Live Demo" /></a>
+<a href="https://github.com/bhuvishag07/CampusCore"><img src="https://img.shields.io/badge/View_Code-DDE3EE?style=for-the-badge&logo=github&logoColor=2B3A55" alt="View Code" /></a>
+</p>
+
+---
+
+### 🎯 Milestone Hub: Goal and Productivity Management System
+
+<p>
+<img src="https://img.shields.io/badge/React_19-FFD3B6?style=flat-square&logo=react&logoColor=2B3A55" alt="React 19" />
+<img src="https://img.shields.io/badge/Vite-FFD3B6?style=flat-square&logo=vite&logoColor=2B3A55" alt="Vite" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-FFD3B6?style=flat-square&logo=tailwindcss&logoColor=2B3A55" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Zustand-FFD3B6?style=flat-square" alt="Zustand" />
+<img src="https://img.shields.io/badge/Recharts-FFD3B6?style=flat-square" alt="Recharts" />
+<img src="https://img.shields.io/badge/Framer_Motion-FFD3B6?style=flat-square&logo=framer&logoColor=2B3A55" alt="Framer Motion" />
+<img src="https://img.shields.io/badge/date--fns-FFD3B6?style=flat-square" alt="date-fns" />
+</p>
+
+A centralized dashboard for goal and milestone tracking, task management, timeline visualization and productivity analytics, with a focus mode and Pomodoro timer.
+
+<p>
+<a href="https://final-react-project-tau.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-B8F0D4?style=for-the-badge&logo=vercel&logoColor=2B3A55" alt="Live Demo" /></a>
+<a href="https://github.com/bhuvishag07/FINAL-REACT-PROJECT-"><img src="https://img.shields.io/badge/View_Code-DDE3EE?style=for-the-badge&logo=github&logoColor=2B3A55" alt="View Code" /></a>
+</p>
+
+---
+
+### 🚗 SmartRide and Car Parking Management System (two separate C++ projects)
+
+<p>
+<img src="https://img.shields.io/badge/C%2B%2B-FFF1A8?style=flat-square&logo=cplusplus&logoColor=2B3A55" alt="C++" />
+<img src="https://img.shields.io/badge/DSA-FFF1A8?style=flat-square" alt="DSA" />
+<img src="https://img.shields.io/badge/Graph_Theory-FFF1A8?style=flat-square" alt="Graph Theory" />
+<img src="https://img.shields.io/badge/Dijkstra-FFF1A8?style=flat-square" alt="Dijkstra" />
+<img src="https://img.shields.io/badge/Priority_Queues-FFF1A8?style=flat-square" alt="Priority Queues" />
+<img src="https://img.shields.io/badge/File_Handling-FFF1A8?style=flat-square" alt="File Handling" />
+<img src="https://img.shields.io/badge/OOP-FFF1A8?style=flat-square" alt="OOP" />
+</p>
+
+- **SmartRide:** a carpool simulation that groups riders, assigns vehicles and optimizes routes on a graph using Dijkstra's algorithm.
+- **Car Parking Management System:** a console application for parking slot allocation, vehicle records and automatic parking-fee calculation.
+
+<p>
+<a href="https://github.com/bhuvishag07/DSA-FINAL-PROJECT-"><img src="https://img.shields.io/badge/SmartRide_Code-DDE3EE?style=for-the-badge&logo=github&logoColor=2B3A55" alt="SmartRide Code" /></a>
+<a href="https://github.com/bhuvishag07/CAR-PARKING-MANAGEMENT-SYSTEM-C-"><img src="https://img.shields.io/badge/Car_Parking_Code-DDE3EE?style=for-the-badge&logo=github&logoColor=2B3A55" alt="Car Parking Code" /></a>
+</p>
+
+---
+
+### 🏅 Sports Club Management System
+
+<p>
+<img src="https://img.shields.io/badge/Java-D9CCFF?style=flat-square&logo=openjdk&logoColor=2B3A55" alt="Java" />
+<img src="https://img.shields.io/badge/Java_Swing-D9CCFF?style=flat-square" alt="Java Swing" />
+<img src="https://img.shields.io/badge/AWT-D9CCFF?style=flat-square" alt="AWT" />
+<img src="https://img.shields.io/badge/OOP-D9CCFF?style=flat-square" alt="OOP" />
+</p>
+
+A Java desktop application with a Swing GUI for member management, membership plans, search and filtering, renewals, expiry alerts and data persistence.
+
+<p>
+<a href="https://github.com/bhuvishag07/Sports-Management-System-"><img src="https://img.shields.io/badge/View_Code-DDE3EE?style=for-the-badge&logo=github&logoColor=2B3A55" alt="View Code" /></a>
+</p>
+
+---
+
+### ⭕ Tic-Tac-Toe: Interactive Browser Game
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-A8D8FF?style=flat-square&logo=html5&logoColor=2B3A55" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-A8D8FF?style=flat-square&logo=css3&logoColor=2B3A55" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-A8D8FF?style=flat-square&logo=javascript&logoColor=2B3A55" alt="JavaScript" />
+</p>
+
+A two-player 3×3 game with win and draw detection, a leaderboard tracking wins, losses and draws, badge ranks based on wins, dark, neon and light themes saved with localStorage, and a community forum.
+
+<p>
+<a href="https://bhuvishag07.github.io/TIC-TAC-TOE-FINAL-PROJECT/"><img src="https://img.shields.io/badge/Live_Demo-B8F0D4?style=for-the-badge&logo=githubpages&logoColor=2B3A55" alt="Live Demo" /></a>
+<a href="https://github.com/bhuvishag07/TIC-TAC-TOE-FINAL-PROJECT"><img src="https://img.shields.io/badge/View_Code-DDE3EE?style=for-the-badge&logo=github&logoColor=2B3A55" alt="View Code" /></a>
+</p>
+
+---
+
+## 💼 Experience
+
+**Summer Intern, BSERC Def-Space Summer Internship** · Summer 2026
+
+- Built **Sentinel**, an AI-powered threat analysis dashboard on the Global Terrorism Database, with a FastAPI backend.
+
+---
+
+## 🏆 Achievements and Activities
+
+| | Details |
 | :--- | :--- |
-| **Smart India Hackathon (College Round)** | Team selected · Rank **16 out of 50 teams** |
-| **BSERC Space Internship (ISRO-associated)** | Completed; built the Sentinel dashboard |
-| **SummerHacks 2026** | Participated through ITM Skills University / Notion |
-| **HackerRank Certifications** | SQL (Basic) · SQL (Intermediate) · Node.js (Basic) · Node.js (Intermediate) |
-| **Deloitte** | Technology Job Simulation (simulation, not employment) |
-
-</div>
+| 🥇 **Smart India Hackathon (internal, ITM Skills University)** | Ranked **16 out of 50** participants |
+| 🚀 **BSERC Def-Space Summer Internship 2026** | Completed; built the Sentinel dashboard |
+| 🤝 **SummerHacks 2026** | Hackathon by ITM Skills University in collaboration with Notion |
 
 ---
 
-## Certifications & Learning
+## 📜 Certifications
 
-| Certification / Learning | Organization |
-| :--- | :--- |
-| SQL (Basic) | HackerRank |
-| SQL (Intermediate) | HackerRank |
-| Node.js (Basic) | HackerRank |
-| Node.js (Intermediate) | HackerRank |
-| Introduction to HTML | Simplilearn SkillUp |
-| Technology Job Simulation (simulation, not employment) | Deloitte |
-| SummerHacks 2026 | ITM Skills University / Notion |
+| Certification | Issuer | Date |
+| :--- | :--- | :---: |
+| Technology Job Simulation (Coding Development) | Deloitte Forage | Sep 2026 |
+| Introduction to HTML | Simplilearn SkillUp | Feb 2026 |
+| SQL (Basic) and SQL (Intermediate) | HackerRank | n/a |
+| Node.js (Basic) and Node.js (Intermediate) | HackerRank | n/a |
 
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhuvishag07&theme=darkhub&column=7&margin-w=10&margin-h=10&title=Stars,Commits,Repositories,Followers,Experience,Languages,Issues" alt="GitHub Trophies" /></a>
-
-</div>
+> The Deloitte certificate is a self-paced job simulation, not employment or an internship.
 
 ---
 
-## Contribution Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvishag07&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=EDE9FE&area=true&area_color=4C1D95&hide_border=true" alt="Contribution activity graph" width="100%" />
+### 📫 Let's Connect
 
-<br/>
+I'm open to software development, full-stack, frontend, Python and AI/data internships, along with hackathons and project collaborations.
 
-<img src="https://ghchart.rshah.org/6D28D9/bhuvishag07" alt="Contribution calendar" width="95%" />
+<a href="https://new-portfolio-zeta-vert.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FFD3B6?style=for-the-badge&logo=vercel&logoColor=2B3A55" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/bhuvisha-gohil-a81864386"><img src="https://img.shields.io/badge/LinkedIn-A8D8FF?style=for-the-badge&logo=linkedin&logoColor=2B3A55" alt="LinkedIn" /></a>
+<a href="mailto:bhuvishagohil07@gmail.com"><img src="https://img.shields.io/badge/Email-FFC8DD?style=for-the-badge&logo=gmail&logoColor=2B3A55" alt="Email" /></a>
 
-</div>
+<br/><br/>
 
----
+*Building today, learning continuously, and improving one project at a time.*
 
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhuvishag07/bhuvishag07/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhuvishag07/bhuvishag07/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/bhuvishag07/bhuvishag07/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-
-
-<div align="center">
-
-> *"Building today, learning continuously, and improving one project at a time."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=4C1D95&section=footer" alt="Footer banner" width="100%" />
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="https://my-portfolio-three-lac.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/bhuvisha-gohil-a81864386/"><img src="https://img.shields.io/badge/LinkedIn-312E81?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:bhuvishagohil07@gmail.com"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/bhuvishag07"><img src="https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=C6E2FF" alt="" width="100%" />
 
 </div>
